@@ -1,0 +1,46 @@
+body{
+    background-size: cover;
+}
+canvas{
+    background-color: azure;
+    height: 400px;
+    width:480px;
+    border-radius: 20px;
+    margin-top:70px;
+}
+.heading{
+    margin: 0%;
+    width: 100%;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 26px;
+    background-color:gainsboro;
+}
+.note{
+    color: blue;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size:22px;
+}
+#h{
+    padding-top: 12px;
+    padding-bottom: 12px;
+}
+#song{
+    height:45px;
+    width:170px;
+    font-size: 25px;
+    margin-top:20px;
+    background-color: #F3F7EC;
+    color:#006989;
+    border-radius:10px;
+}
+#song1{
+    width:170px;
+    font-size: 25px;
+    height:45px;
+    margin-top:20px;
+    background-color:#F3F7EC;
+    color:#006989;
+    margin-left:10px;
+    border-radius:10px;
+
+}
